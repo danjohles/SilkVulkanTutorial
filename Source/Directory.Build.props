@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <VulkanBinPath Condition="'$(VulkanBinPath)' == ''">C:\VulkanSDK\1.4.304.0\Bin</VulkanBinPath>
+  </PropertyGroup>
+</Project>
